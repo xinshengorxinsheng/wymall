@@ -4,7 +4,7 @@
 #### 系统环境配置
 - 安装JDK,配置环境变量
 - 安装Tomcat，安装之前须安装好JDK
-- 安装mysql并进行相关权限、字符集配置
+- 安装mysql
 - 安装Navicat连接mysql数据库
 - 安装maven对所要开发的项目集成管理
 - 安装Git对本地代码仓库进行托管，并注册使用GitHub
